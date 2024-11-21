@@ -1,3 +1,4 @@
+<pre>
 src/
 ├── assets/          # 画像、フォント、スタイルなどの静的アセット
 │   ├── images/      # 画像
@@ -41,3 +42,4 @@ src/
 └── types/           # 型定義（カスタム型やインターフェース）
     ├── auth.d.ts
     └── common.d.ts
+</pre>
